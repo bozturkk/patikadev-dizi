@@ -1,0 +1,15 @@
+/Users/cokoprens/Desktop/PatikaDevPratikler/diziler/obj/Debug/net6.0/diziler.csproj.AssemblyReference.cache
+/Users/cokoprens/Desktop/PatikaDevPratikler/diziler/obj/Debug/net6.0/diziler.GeneratedMSBuildEditorConfig.editorconfig
+/Users/cokoprens/Desktop/PatikaDevPratikler/diziler/obj/Debug/net6.0/diziler.AssemblyInfoInputs.cache
+/Users/cokoprens/Desktop/PatikaDevPratikler/diziler/obj/Debug/net6.0/diziler.AssemblyInfo.cs
+/Users/cokoprens/Desktop/PatikaDevPratikler/diziler/obj/Debug/net6.0/diziler.csproj.CoreCompileInputs.cache
+/Users/cokoprens/Desktop/PatikaDevPratikler/diziler/bin/Debug/net6.0/diziler
+/Users/cokoprens/Desktop/PatikaDevPratikler/diziler/bin/Debug/net6.0/diziler.deps.json
+/Users/cokoprens/Desktop/PatikaDevPratikler/diziler/bin/Debug/net6.0/diziler.runtimeconfig.json
+/Users/cokoprens/Desktop/PatikaDevPratikler/diziler/bin/Debug/net6.0/diziler.dll
+/Users/cokoprens/Desktop/PatikaDevPratikler/diziler/bin/Debug/net6.0/diziler.pdb
+/Users/cokoprens/Desktop/PatikaDevPratikler/diziler/obj/Debug/net6.0/diziler.dll
+/Users/cokoprens/Desktop/PatikaDevPratikler/diziler/obj/Debug/net6.0/refint/diziler.dll
+/Users/cokoprens/Desktop/PatikaDevPratikler/diziler/obj/Debug/net6.0/diziler.pdb
+/Users/cokoprens/Desktop/PatikaDevPratikler/diziler/obj/Debug/net6.0/diziler.genruntimeconfig.cache
+/Users/cokoprens/Desktop/PatikaDevPratikler/diziler/obj/Debug/net6.0/ref/diziler.dll
